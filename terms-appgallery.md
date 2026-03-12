@@ -1,4 +1,4 @@
-# Huawei Terms of Use / EULA (FPL Helper)
+# Terms of Use / EULA (FPL Helper)
 
 **Effective date:** 2026-03-12  
 **App name:** FPL Helper  
