@@ -55,3 +55,5 @@ It is not intended for children or minors under 18.
 
 ## 9) Changes
 We may update this policy. The latest version and effective date will be published at the same URL.
+
+"To request access, correction, or deletion, contact ralph.avapps@gmail.com and include your request details."
