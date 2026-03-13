@@ -1,4 +1,4 @@
-# Huawei Privacy Policy Template (FPL Helper)
+# Privacy Policy Template (FPL Helper)
 
 **Effective date:** 2026-03-13  
 **App name:** FPL Helper  
