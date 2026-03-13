@@ -56,8 +56,8 @@ This app is intended for users aged 18 or older and is not intended for minors u
 ### 9) Changes
 We may update this Privacy Policy. The latest version and effective date will be published at this URL.
 
-Suggested rights statement:
-"To request access, correction, or deletion, contact ralph.avapps@gmail.com and include your request details."
+Data subject rights:
+For access, correction, or deletion, contact ralph.avapps@gmail.com.
 
 ---
 
@@ -107,5 +107,5 @@ Suggested rights statement:
 ### 9) 政策更新
 我们可能更新本隐私政策。最新版本及生效日期将发布在本链接页面。  
 
-建议文案：  
-"如需访问、更正或删除数据，请发送邮件至 ralph.avapps@gmail.com，并说明您的请求内容。"
+数据主体权利：  
+如需访问、更正或删除您的个人数据，请通过 ralph.avapps@gmail.com 联系我们。
