@@ -1,9 +1,9 @@
 # Privacy Policy Template (FPL Helper)
 
-**App name:** FPL Helper
-**Developer:** Ralph AVApps
-**Distribution channel:** Huawei AppGallery    
-**Contact email:** ralph.avapps@gmail.com
+**App name:** FPL Helper  
+**Developer:** Ralph AVApps  
+**Distribution channel:** Huawei AppGallery      
+**Contact email:** ralph.avapps@gmail.com  
 **Effective date:** 2026-03-13  
 **Last updated:** 2026-03-18
 
@@ -66,7 +66,7 @@ For access, correction, or deletion, contact ralph.avapps@gmail.com.
 **开发者：** Ralph AVApps  
 **分发渠道：** Huawei AppGallery  
 **联系邮箱：** ralph.avapps@gmail.com  
-**生效日期：** 2026-03-13
+**生效日期：** 2026-03-13  
 **最后更新日期：** 2026-03-18
 
 本隐私政策说明 **FPL Helper** 在 Huawei AppGallery 发布版本中如何处理数据。
