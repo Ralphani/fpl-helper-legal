@@ -1,10 +1,11 @@
 # Terms of Use / EULA (FPL Helper)
 
-**Effective date:** 2026-03-13  
 **App name:** FPL Helper  
-**Distribution channel:** Huawei AppGallery  
-**Developer / Publisher name:** Ralph AVApps  
-**Contact:** ralph.avapps@gmail.com
+**Developer:** Ralph AVApps  
+**Distribution channel:** Huawei AppGallery      
+**Contact email:** ralph.avapps@gmail.com  
+**Effective date:** 2026-03-13  
+**Last updated:** 2026-03-18
 
 By installing or using FPL Helper, you agree to these Terms.
 
@@ -60,6 +61,15 @@ These Terms are governed by the laws of Serbia. Disputes are subject to the comp
 For legal or support questions: **ralph.avapps@gmail.com**
 
 ---
+
+**应用名称：** FPL Helper  
+**开发者：** Ralph AVApps  
+**分发渠道：** Huawei AppGallery  
+**联系邮箱：** ralph.avapps@gmail.com  
+**生效日期：** 2026-03-13  
+**最后更新日期：** 2026-03-18 
+
+本隐私政策说明 **FPL Helper** 在 Huawei AppGallery 发布版本中如何处理数据。
 
 ## 简体中文版本 (Chinese Mainland)
 
