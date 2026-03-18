@@ -69,7 +69,7 @@ For legal or support questions: **ralph.avapps@gmail.com**
 **生效日期：** 2026-03-13  
 **最后更新日期：** 2026-03-18 
 
-本隐私政策说明 **FPL Helper** 在 Huawei AppGallery 发布版本中如何处理数据。
+本使用条款说明您在 Huawei AppGallery 发布版本中使用 **FPL Helper** 时适用的规则。
 
 ## 简体中文版本 (Chinese Mainland)
 
