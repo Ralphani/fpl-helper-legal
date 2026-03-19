@@ -1,4 +1,4 @@
-# Huawei Terms of Use / EULA (FPL Helper)
+# Terms of Use / EULA (FPL Helper)
 
 **App name:** FPL Helper  
 **Developer name:** Ralph AVApps  
