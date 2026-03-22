@@ -1,4 +1,4 @@
-# Privacy Policy Template (FPL Helper)
+# Privacy Policy (FPL Helper)
 
 **App name:** FPL Helper   
 **Developer name:** Ralph AVApps   
